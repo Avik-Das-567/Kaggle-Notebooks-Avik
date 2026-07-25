@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Photonic Crystal Fiber Characterization and Agentic Inverse Design](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/photonic-crystal-fiber-characterization.ipynb)
 - [Modeling of 2D Multiprocessor Optical Interconnection Networks](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/modeling-2d-multiprocessor-optical-interconnects.ipynb)
 - [Planetary Defense Analysis and Hazard Classification for Asteroids](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/planetary-defense-asteroid-classification.ipynb)
 - [Astrophysical Scaling Relations and Isotopologue Dynamics in Galactic GMCs](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/galactic-co-isotopologue-ml-synthesis.ipynb)
