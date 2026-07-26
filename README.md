@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Benchmarking Quantum Mechanical Excitation Spectra of Small Molecules](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/qm8-electronic-spectra-gnn.ipynb)
 - [Photonic Crystal Fiber Characterization and Agentic Inverse Design](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/photonic-crystal-fiber-characterization.ipynb)
 - [Modeling of 2D Multiprocessor Optical Interconnection Networks](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/modeling-2d-multiprocessor-optical-interconnects.ipynb)
 - [Planetary Defense Analysis and Hazard Classification for Asteroids](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/planetary-defense-asteroid-classification.ipynb)
