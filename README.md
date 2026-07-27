@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Quantum Mechanical Geometry Optimization of Carbon Nanotubes](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/quantum-geometry-optimization-carbon-nanotubes.ipynb)
 - [Spatiotemporal Modeling of Dissolved Organic Carbon (DOC) Concentrations](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/spatiotemporal_doc_modeling_headwater_catchments.ipynb)
 - [QM8 Electronic Spectra via Graph Neural Networks](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/qm8-electronic-spectra-gnn.ipynb)
 - [Photonic Crystal Fiber Characterization and Agentic Inverse Design](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/photonic-crystal-fiber-characterization.ipynb)
