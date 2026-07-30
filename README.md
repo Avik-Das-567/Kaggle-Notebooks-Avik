@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Quantum State Tomography: Neural Density Inversion](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/quantum-state-tomography-neural-inversion.ipynb)
 - [Hybrid Nanofluid Density Prediction via Physics-Informed ML Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/hybrid-nanofluid-density-prediction.ipynb)
 - [Quantum Mechanical Geometry Optimization of Carbon Nanotubes](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/quantum-geometry-optimization-carbon-nanotubes.ipynb)
 - [Spatiotemporal Modeling of Dissolved Organic Carbon (DOC) Concentrations](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/spatiotemporal_doc_modeling_headwater_catchments.ipynb)
