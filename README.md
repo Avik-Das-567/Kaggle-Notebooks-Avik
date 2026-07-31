@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Electrochemical Impedance Spectroscopy (EIS) Analysis for Lithium-Ion Battery](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/broadband-eis-1dcnn-battery-soc.ipynb)
 - [Quantum State Tomography: Neural Density Inversion](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/quantum-state-tomography-neural-inversion.ipynb)
 - [Hybrid Nanofluid Density Prediction via Physics-Informed ML Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/hybrid-nanofluid-density-prediction.ipynb)
 - [Quantum Mechanical Geometry Optimization of Carbon Nanotubes](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/quantum-geometry-optimization-carbon-nanotubes.ipynb)
