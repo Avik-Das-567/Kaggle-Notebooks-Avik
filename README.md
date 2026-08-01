@@ -89,6 +89,7 @@
 - [Solar Filament Segmentation: ResNet U-Net Pipeline](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/solar-filament-segmentation-resnet-unet.ipynb)
 - [Spatial-Temporal Hyperspectral Tracking Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/hyperspectral-object-tracking.ipynb)
 - [Kaggriculture: Microeconomic Dynamic Policy Engine](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/kaggriculture-microeconomic-policy-engine.ipynb)
+- [Predicting Smartphone Addiction (Playground Series - Season 6 Episode 8)](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-smartphone-addiction.ipynb)
 - [Predicting Student Health Risk (Playground Series - Season 6 Episode 7)](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi-gbdt-student-health-profiling.ipynb)
 - [CROO A2A Protocol: Graph Topology & Neural Router](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/croo-a2a-topology-neural-router.ipynb)
 - [Ground Cover Segmentation Challenge, by Duality AI+Lunate AI](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/geospatial-sim2real-segmentation.ipynb)
