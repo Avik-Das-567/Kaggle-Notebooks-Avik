@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [DFT-Grounded ML for Electronic Property Prediction in Lithium Battery Compounds](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/lithium-battery-dft-ml-screening.ipynb)
 - [Thermodynamic Modeling for Organic Compound Solubility in Binary Solvent](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/thermodynamic-modeling-organic-compound-solubility.ipynb)
 - [Electrochemical Impedance Spectroscopy (EIS) Analysis for Lithium-Ion Battery](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/broadband-eis-1dcnn-battery-soc.ipynb)
 - [Quantum State Tomography: Neural Density Inversion](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/quantum-state-tomography-neural-inversion.ipynb)
