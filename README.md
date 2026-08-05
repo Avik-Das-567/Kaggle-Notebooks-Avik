@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Crystallographic Steric Packing and Electronic Descriptors for Predicting Stability](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/crystallographic-descriptors-abo3-stability.ipynb)
 - [Perovskite Oxides Thermodynamic Stability Prediction via Physics-Informed ML](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/thermodynamic-stability-perovskites-ml.ipynb)
 - [DFT-Grounded ML for Electronic Property Prediction in Lithium Battery Compounds](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/lithium-battery-dft-ml-screening.ipynb)
 - [Thermodynamic Modeling for Organic Compound Solubility in Binary Solvent](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/thermodynamic-modeling-organic-compound-solubility.ipynb)
