@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Mohs Hardness Prediction in Mineral & Ceramic Crystals: Physicochemical ML Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/mohs-hardness-prediction-mineral-ceramic-crystal.ipynb)
 - [Crystallographic Steric Packing and Electronic Descriptors for Predicting Stability](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/crystallographic-descriptors-abo3-stability.ipynb)
 - [Perovskite Oxides Thermodynamic Stability Prediction via Physics-Informed ML](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/thermodynamic-stability-perovskites-ml.ipynb)
 - [DFT-Grounded ML for Electronic Property Prediction in Lithium Battery Compounds](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/lithium-battery-dft-ml-screening.ipynb)
