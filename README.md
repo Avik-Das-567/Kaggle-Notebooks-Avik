@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [High-Energy Physics Analysis of CMS Run 2010B MultiJet Collision Data](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cern-proton-collision-razor-analysis.ipynb)
 - [III-V Semiconductor Bandgap Materials Informatics: Electronic Property Prediction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/semiconductor-bandgap-materials-informatics.ipynb)
 - [Scientific Materials Analytics & Predictive Modeling: Group 4 Minerals (Ti, Zr, Hf)](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/x-ray-absorption-spectroscopy-ti-zr-hf.ipynb)
 - [Quantum Chemical Property Prediction & Topological Benchmarking on the QM40 Dataset](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/quantum-chemical-property-prediction.ipynb)
