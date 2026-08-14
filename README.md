@@ -96,6 +96,7 @@
 
 # Competition Notebooks
 
+- [Reverse-Engineering On-Chain Solana Sniper Bot](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/solana-sniper-bot-reverse-engineering.ipynb)
 - [POMDP Pathfinding via Multi-Agent Deep Q-Learning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/battlesnake-blackout-2026.ipynb)
 - [Multimodal Multi-Plane 2.5D CNN for Knee MRI Detection](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/knee-abnormality-detection.ipynb)
 - [Solar Filament Segmentation: ResNet U-Net Pipeline](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/solar-filament-segmentation-resnet-unet.ipynb)
