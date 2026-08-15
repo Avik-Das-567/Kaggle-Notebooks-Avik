@@ -132,6 +132,7 @@
 - [IMAGINE-decoding-challenge](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/imagine-decoding-challenge.ipynb)
 - [Pierce the VEIL: Hack It and Crack It Simulation](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pierce-the-veil-hack-it-and-crack-it-simulation.ipynb)
 - [GeoHab 2026 MLWG Competition](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/geohab-2026-mlwg-competition.ipynb)
+- [Pokémon TCG AI Battle Challenge: Strategy & Agentic Optimization Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ptcg-ai-battle-challenge-strategy.ipynb)
 - [The Pokémon Company - PTCG AI Battle Challenge Simulation](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ptcg-ai-battle-heuristic-pipeline.ipynb)
 - [SPR 2026 Mammography Report Classification](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/spr-2026-mammography-report-classification.ipynb)
 - [Hedge fund - Time series forecasting](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/time-series-forecasting-with-lag-features-lightgbm.ipynb)
