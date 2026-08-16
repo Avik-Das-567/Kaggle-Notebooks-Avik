@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Phenomenological Surrogate Modeling for Inert Doublet Model Production Cross Sections](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/inert-doublet-model-cross-section-surrogates.ipynb)
 - [Identification of Z Boson Decay Modes via High-Energy Physics Kinematics](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/z-boson-decay-mode-classification.ipynb)
 - [High-Energy Physics Analysis of CMS Run 2010B MultiJet Collision Data](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cern-proton-collision-razor-analysis.ipynb)
 - [III-V Semiconductor Bandgap Materials Informatics: Electronic Property Prediction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/semiconductor-bandgap-materials-informatics.ipynb)
