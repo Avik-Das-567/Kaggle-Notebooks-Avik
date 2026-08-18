@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Relativistic Dielectron Spectroscopy and Electroweak Mass Reconstruction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cms-dielectron-spectroscopy-z0-reconstruction.ipynb)
 - [Solid-State Lithium Electrolyte Conductivity Prediction: ML & DL Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/lithium-electrolyte-conductivity-prediction.ipynb)
 - [Phenomenological Surrogate Modeling for Inert Doublet Model Production Cross Sections](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/inert-doublet-model-cross-section-surrogates.ipynb)
 - [Identification of Z Boson Decay Modes via High-Energy Physics Kinematics](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/z-boson-decay-mode-classification.ipynb)
