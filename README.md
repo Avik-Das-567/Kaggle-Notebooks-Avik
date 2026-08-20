@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Computational Discovery & Statistical Modeling of Insertion Battery Materials](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/battery-materials-dft-ml-screening.ipynb)
 - [Disentangling Supersymmetric Signatures from Standard Model Backgrounds](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/deep-kinematic-analysis-supersymmetric-signals.ipynb)
 - [NASA Asteroid Impact Dynamics & Planetary Defense: Astrodynamic Analysis](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nasa-asteroid-impact-dynamics-planetary-defense.ipynb)
 - [Relativistic Dielectron Spectroscopy and Electroweak Mass Reconstruction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cms-dielectron-spectroscopy-z0-reconstruction.ipynb)
