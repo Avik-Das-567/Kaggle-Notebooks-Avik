@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Electroweak Precision Measurement: Analysis of W Boson Candidate Events](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cern-wmunu-electroweak-analysis.ipynb)
 - [Multi-Scale Telemetry Anomaly Detection for the ESA OPS-SAT Mission](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/esa-opssat-telemetry-anomaly-detection.ipynb)
 - [Computational Discovery & Statistical Modeling of Insertion Battery Materials](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/battery-materials-dft-ml-screening.ipynb)
 - [Disentangling Supersymmetric Signatures from Standard Model Backgrounds](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/deep-kinematic-analysis-supersymmetric-signals.ipynb)
