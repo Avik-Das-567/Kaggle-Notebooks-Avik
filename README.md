@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Relativistic Dimuon Spectroscopy and Precision Electroweak Analysis](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/dimuon-spectroscopy-electroweak-analysis.ipynb)
 - [Superconducting Critical Temperature Regression: NIMS SuperCon Database](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/superconudcting-critical-temperature-regression.ipynb)
 - [Materials Informatics & Topological Feature Mapping of Metal-Organic Frameworks](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/materials-informatics-metal-organic-frameworks.ipynb)
 - [Subatomic Particle Jet Flavour Identification: Kinematic Reconstruction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/jetnet-particle-cloud-transformer.ipynb)
