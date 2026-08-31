@@ -125,7 +125,7 @@
 - [Biohub - Cell Tracking During Development](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/biohub-3d-cell-tracking-pipeline.ipynb)
 - [Predicting Stellar Class (Playground Series - Season 6 Episode 6)](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-stellar-class.ipynb)
 - [Predicting F1 Pit Stops (Playground Series - Season 6 Episode 5)](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-f1-pit-stops.ipynb)
-- [AI Agent Security - Multi-Step Tool Attacks](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi_step_agent_red_teaming.ipynb)
+- [AI Agent Security - Multi-Step Tool Attacks](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/state-space-search-agent-attacks.ipynb)
 - [Retroviral Wall Challenge](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/retroviral-wall-challenge.ipynb)
 - [ROGII - Wellbore Geology Prediction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/rogii-wellbore-geology-prediction.ipynb)
 - [Soccer Feature Engineering Hackathon](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/advanced-soccer-feature-engineering.ipynb)
