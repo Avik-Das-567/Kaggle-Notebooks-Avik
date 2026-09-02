@@ -110,6 +110,7 @@
 
 # Competition Notebooks
 
+- [Predicting Electric Vehicle Purchases (Playground Series - Season 6 Episode 9)](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-electric-vehicle-purchases.ipynb)
 - [Museum Specimen Collection Annotation Task @ CVNH ECCV26](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/specimen-metadata-ocr-aurc-calibration.ipynb)
 - [Reverse-Engineering On-Chain Solana Sniper Bot](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/solana-sniper-bot-reverse-engineering.ipynb)
 - [POMDP Pathfinding via Multi-Agent Deep Q-Learning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/battlesnake-blackout-2026.ipynb)
