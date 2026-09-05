@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [ChemSafety-32k: Multi-Label Chemical Hazard Prediction & Safety Benchmarking](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi-label-chemical-hazard-prediction.ipynb)
 - [NASA Perseverance MOXIE: Electrochemical Kinetics, System Health & ISRU Scaling](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nasa_moxie_soec_kinetics_isru_scaling.ipynb)
 - [Crystal System Classification in ABO3 Perovskite Oxides: ML Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/crystal-system-classification-perovskite-oxides.ipynb)
 - [Multimodal ML for Experimental Electronic Bandgap Prediction in Inorganic Crystals](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/xbandgap-multimodal-crystal-bandgap-prediction.ipynb)
