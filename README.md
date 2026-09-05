@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Surrogate Modeling & Inverse Design of TiO2 Metasurface Optical Filters](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/metasurface-optical-filters-surrogate-modeling.ipynb)
 - [ChemSafety-32k: Multi-Label Chemical Hazard Prediction & Safety Benchmarking](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi-label-chemical-hazard-prediction.ipynb)
 - [NASA Perseverance MOXIE: Electrochemical Kinetics, System Health & ISRU Scaling](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nasa_moxie_soec_kinetics_isru_scaling.ipynb)
 - [Crystal System Classification in ABO3 Perovskite Oxides: ML Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/crystal-system-classification-perovskite-oxides.ipynb)
